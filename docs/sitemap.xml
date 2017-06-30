@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>file:///Users/James/ThisIsJames/docs/post/my-first-post/</loc>
+  </url>
+  
+  <url>
+    <loc>file:///Users/James/ThisIsJames/docs/post/second-post/</loc>
+  </url>
+  
+  <url>
+    <loc>file:///Users/James/ThisIsJames/docs/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///Users/James/ThisIsJames/docs/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///Users/James/ThisIsJames/docs/tags/first/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///Users/James/ThisIsJames/docs/tags/hello/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///Users/James/ThisIsJames/docs/tags/post/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///Users/James/ThisIsJames/docs/post/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///Users/James/ThisIsJames/docs/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///Users/James/ThisIsJames/docs/categories/technology/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///Users/James/ThisIsJames/docs/tags/world/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
